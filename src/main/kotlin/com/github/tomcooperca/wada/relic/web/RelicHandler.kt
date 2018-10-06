@@ -1,7 +1,7 @@
-package com.aow.wada.relic.web
+package com.github.tomcooperca.wada.relic.web
 
-import com.aow.wada.relic.model.RelicEntity
-import com.aow.wada.relic.repository.RelicRepository
+import com.github.tomcooperca.wada.relic.model.RelicEntity
+import com.github.tomcooperca.wada.relic.repository.RelicRepository
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.data.geo.Distance

@@ -1,4 +1,4 @@
-package com.aow.wada.relic.model
+package com.github.tomcooperca.wada.relic.model
 
 
 import org.springframework.data.annotation.Id

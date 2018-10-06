@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.github.tomcooperca
+---
+testFramework: spock
+sourceLanguage: kotlin

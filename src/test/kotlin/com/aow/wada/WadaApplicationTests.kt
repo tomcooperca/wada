@@ -1,4 +1,4 @@
-package com.aow.wada
+package com.github.tomcooperca.wada
 
 import org.junit.Test
 import org.junit.runner.RunWith

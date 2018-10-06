@@ -1,3 +1,3 @@
-package com.aow.wada.relic.model
+package com.github.tomcooperca.wada.relic.model
 
 data class RelicRequest(val text: String, val location: Map<String, Double>)

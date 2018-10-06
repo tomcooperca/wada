@@ -1,6 +1,6 @@
-package com.aow.wada.relic.repository
+package com.github.tomcooperca.wada.relic.repository
 
-import com.aow.wada.relic.model.RelicEntity
+import com.github.tomcooperca.wada.relic.model.RelicEntity
 import org.springframework.data.geo.Distance
 import org.springframework.data.geo.Point
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository
