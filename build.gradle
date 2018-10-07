@@ -27,11 +27,12 @@ dependencyManagement {
 
 dependencies {
     implementation "io.micronaut:http-client"
-    implementation "io.micronaut.configuration:mongo-reactive"
     implementation "io.micronaut:http-server-netty"
+    implementation "io.micronaut:runtime"
+    implementation "io.micronaut:management"
+    implementation "io.micronaut.configuration:mongo-reactive"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}"
     implementation "org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}"
-    implementation "io.micronaut:runtime"
     implementation "org.springframework.data:spring-data-commons:${springDataCommonsVersion}"
     kapt "io.micronaut:inject-java"
     kapt "io.micronaut:validation"
